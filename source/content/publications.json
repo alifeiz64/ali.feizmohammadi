@@ -1,0 +1,509 @@
+[
+  {
+    "arxiv": "2610.06766",
+    "title": "Fractional Calderón problem with a potential",
+    "authors": [
+      "Ali Feizmohammadi",
+      "Katya Krupchyk",
+      "Gunther Uhlmann"
+    ],
+    "doi": "",
+    "journal": "",
+    "year": 2026,
+    "status": "preprint",
+    "details": "Preprint"
+  },
+  {
+    "arxiv": "2609.28047",
+    "title": "The planar Calderón problem for Lᵖ potentials",
+    "authors": [
+      "Ali Feizmohammadi"
+    ],
+    "doi": "",
+    "journal": "",
+    "year": 2026,
+    "status": "preprint",
+    "details": "Preprint"
+  },
+  {
+    "arxiv": "2509.04289",
+    "title": "Recovery of Sturm-Liouville operators from partial boundary spectral data and applications",
+    "authors": [
+      "Ali Feizmohammadi",
+      "Yavar Kian"
+    ],
+    "doi": "10.1007/s00023-026-01696-x",
+    "journal": "Annales Henri Poincaré",
+    "year": 2026,
+    "details": "In press",
+    "status": "published"
+  },
+  {
+    "arxiv": "2507.22723",
+    "title": "Inverse spectral problems with sparse data and applications to passive imaging on manifolds",
+    "authors": [
+      "Ali Feizmohammadi",
+      "Katya Krupchyk"
+    ],
+    "doi": "",
+    "journal": "",
+    "year": 2025,
+    "status": "preprint",
+    "details": "Preprint"
+  },
+  {
+    "arxiv": "2506.17648",
+    "title": "Simultaneous identification of coefficients and source in a subdiffusion equation from one passive measurement",
+    "authors": [
+      "Maolin Deng",
+      "Ali Feizmohammadi",
+      "Bangti Jin",
+      "Yavar Kian"
+    ],
+    "doi": "10.1007/s00209-026-03998-6",
+    "journal": "Mathematische Zeitschrift",
+    "year": 2026,
+    "details": "312, article 100",
+    "status": "published"
+  },
+  {
+    "arxiv": "2502.00710",
+    "title": "Fractional anisotropic Calderón problem with external data",
+    "authors": [
+      "Ali Feizmohammadi",
+      "Tuhin Ghosh",
+      "Katya Krupchyk",
+      "Angkana Rüland",
+      "Johannes Sjöstrand",
+      "Gunther Uhlmann"
+    ],
+    "doi": "",
+    "journal": "",
+    "year": 2025,
+    "status": "preprint",
+    "details": "Preprint"
+  },
+  {
+    "arxiv": "2501.10590",
+    "title": "Reconstruction of 1-D evolution equations and their initial data from one passive measurement",
+    "authors": [
+      "Ali Feizmohammadi"
+    ],
+    "doi": "10.1137/25M1728533",
+    "journal": "SIAM Journal on Mathematical Analysis",
+    "year": 2025,
+    "details": "57(5), 5089–5106",
+    "status": "published"
+  },
+  {
+    "arxiv": "2412.13118",
+    "title": "Entanglement principle for the fractional Laplacian with applications to inverse problems",
+    "authors": [
+      "Ali Feizmohammadi",
+      "Yi-Hsuan Lin"
+    ],
+    "doi": "",
+    "journal": "",
+    "year": 2024,
+    "status": "preprint",
+    "details": "Preprint"
+  },
+  {
+    "arxiv": "2407.16866",
+    "title": "Calderón problem for fractional Schrödinger operators on closed Riemannian manifolds",
+    "authors": [
+      "Ali Feizmohammadi",
+      "Katya Krupchyk",
+      "Gunther Uhlmann"
+    ],
+    "doi": "10.1007/s00222-026-01432-6",
+    "journal": "Inventiones Mathematicae",
+    "year": 2026,
+    "details": "In press",
+    "status": "published"
+  },
+  {
+    "arxiv": "2406.01387",
+    "title": "Partial data inverse problems for reaction-diffusion and heat equations",
+    "authors": [
+      "Ali Feizmohammadi",
+      "Yavar Kian",
+      "Gunther Uhlmann"
+    ],
+    "doi": "",
+    "journal": "",
+    "year": 2024,
+    "status": "preprint",
+    "details": "Preprint"
+  },
+  {
+    "arxiv": "2405.04123",
+    "title": "Two uniqueness results in the inverse boundary value problem for the weighted p-Laplace equation",
+    "authors": [
+      "Cătălin I. Cârstea",
+      "Ali Feizmohammadi"
+    ],
+    "doi": "10.1017/fms.2025.10095",
+    "journal": "Forum of Mathematics, Sigma",
+    "year": 2025,
+    "details": "13, e147",
+    "status": "published"
+  },
+  {
+    "arxiv": "2306.05839",
+    "title": "Rigidity of inverse problems for nonlinear elliptic equations on manifolds",
+    "authors": [
+      "Ali Feizmohammadi",
+      "Yavar Kian",
+      "Lauri Oksanen"
+    ],
+    "doi": "10.1112/blms.13102",
+    "journal": "Bulletin of the London Mathematical Society",
+    "year": 2024,
+    "details": "56, 2802–2823",
+    "status": "published"
+  },
+  {
+    "arxiv": "2204.02442",
+    "title": "Remarks on the anisotropic Calderón problem",
+    "authors": [
+      "Cătălin I. Cârstea",
+      "Ali Feizmohammadi",
+      "Lauri Oksanen"
+    ],
+    "doi": "10.1090/proc/16455",
+    "journal": "Proceedings of the American Mathematical Society",
+    "year": 2023,
+    "details": "151, 4461–4473",
+    "status": "published"
+  },
+  {
+    "arxiv": "2203.13742",
+    "title": "An inverse boundary value problem for isotropic nonautonomous heat flows",
+    "authors": [
+      "Ali Feizmohammadi"
+    ],
+    "doi": "10.1007/s00208-022-02559-6",
+    "journal": "Mathematische Annalen",
+    "year": 2024,
+    "details": "388, 1569–1607",
+    "status": "published"
+  },
+  {
+    "arxiv": "2112.08305",
+    "title": "An inverse problem for a semilinear elliptic equation on conformally transversally anisotropic manifolds",
+    "authors": [
+      "Ali Feizmohammadi",
+      "Tony Liimatainen",
+      "Yi-Hsuan Lin"
+    ],
+    "doi": "10.1007/s40818-023-00153-w",
+    "journal": "Annals of PDE",
+    "year": 2023,
+    "details": "9, article 12",
+    "status": "published"
+  },
+  {
+    "arxiv": "2112.03480",
+    "title": "Fractional anisotropic Calderón problem on closed Riemannian manifolds",
+    "authors": [
+      "Ali Feizmohammadi",
+      "Tuhin Ghosh",
+      "Katya Krupchyk",
+      "Gunther Uhlmann"
+    ],
+    "doi": "10.4310/jdg/1757353909",
+    "journal": "Journal of Differential Geometry",
+    "year": 2025,
+    "details": "131(2), 401–414",
+    "status": "published"
+  },
+  {
+    "arxiv": "2112.01663",
+    "title": "Lorentzian Calderón problem near the Minkowski geometry",
+    "authors": [
+      "Spyros Alexakis",
+      "Ali Feizmohammadi",
+      "Lauri Oksanen"
+    ],
+    "doi": "10.4171/JEMS/1440",
+    "journal": "Journal of the European Mathematical Society",
+    "year": 2025,
+    "details": "no. 9, 3771–3792",
+    "status": "published"
+  },
+  {
+    "arxiv": "2111.07374",
+    "title": "An inverse problem for a quasilinear convection–diffusion equation",
+    "authors": [
+      "Ali Feizmohammadi",
+      "Yavar Kian",
+      "Gunther Uhlmann"
+    ],
+    "doi": "10.1016/j.na.2022.112921",
+    "journal": "Nonlinear Analysis",
+    "year": 2022,
+    "details": "222, 112921",
+    "status": "published"
+  },
+  {
+    "arxiv": "2110.07500",
+    "title": "Fractional Calderón problem on a closed Riemannian manifold",
+    "authors": [
+      "Ali Feizmohammadi"
+    ],
+    "doi": "10.1090/tran/9106",
+    "journal": "Transactions of the American Mathematical Society",
+    "year": 2024,
+    "details": "377, 2991–3013",
+    "status": "published"
+  },
+  {
+    "arxiv": "2109.07890",
+    "title": "Spacetime finite element methods for control problems subject to the wave equation",
+    "authors": [
+      "Erik Burman",
+      "Ali Feizmohammadi",
+      "Arnaud Munch",
+      "Lauri Oksanen"
+    ],
+    "doi": "10.1051/cocv/2023028",
+    "journal": "ESAIM: Control, Optimisation and Calculus of Variations",
+    "year": 2023,
+    "details": "29, article 41",
+    "status": "published"
+  },
+  {
+    "arxiv": "2103.05917",
+    "title": "The Calderón inverse problem for isotropic quasilinear conductivities",
+    "authors": [
+      "Cătălin I. Cârstea",
+      "Ali Feizmohammadi",
+      "Yavar Kian",
+      "Katya Krupchyk",
+      "Gunther Uhlmann"
+    ],
+    "doi": "10.1016/j.aim.2021.107956",
+    "journal": "Advances in Mathematics",
+    "year": 2021,
+    "details": "107956",
+    "status": "published"
+  },
+  {
+    "arxiv": "2009.11217",
+    "title": "A density property for tensor products of gradients of harmonic functions and applications",
+    "authors": [
+      "Cătălin I. Cârstea",
+      "Ali Feizmohammadi"
+    ],
+    "doi": "10.1016/j.jfa.2022.109740",
+    "journal": "Journal of Functional Analysis",
+    "year": 2023,
+    "details": "284(2), 109740",
+    "status": "published"
+  },
+  {
+    "arxiv": "2009.10280",
+    "title": "Reconstruction in the Calderón problem on conformally transversally anisotropic manifolds",
+    "authors": [
+      "Ali Feizmohammadi",
+      "Katya Krupchyk",
+      "Lauri Oksanen",
+      "Gunther Uhlmann"
+    ],
+    "doi": "10.1016/j.jfa.2021.109191",
+    "journal": "Journal of Functional Analysis",
+    "year": 2021,
+    "details": "no. 9, 109191",
+    "status": "published"
+  },
+  {
+    "arxiv": "2008.07508",
+    "title": "Lorentzian Calderón problem under curvature bounds",
+    "authors": [
+      "Spyros Alexakis",
+      "Ali Feizmohammadi",
+      "Lauri Oksanen"
+    ],
+    "doi": "10.1007/s00222-022-01100-5",
+    "journal": "Inventiones Mathematicae",
+    "year": 2022,
+    "details": "229, 87–138",
+    "status": "published"
+  },
+  {
+    "arxiv": "2008.04517",
+    "title": "An inverse boundary value problem for certain anisotropic quasilinear elliptic equations",
+    "authors": [
+      "Cătălin I. Cârstea",
+      "Ali Feizmohammadi"
+    ],
+    "doi": "10.1016/j.jde.2021.02.044",
+    "journal": "Journal of Differential Equations",
+    "year": 2021,
+    "details": "284, 318–349",
+    "status": "published"
+  },
+  {
+    "arxiv": "2006.12158",
+    "title": "Inverse problems for non-linear hyperbolic equations with disjoint sources and receivers",
+    "authors": [
+      "Ali Feizmohammadi",
+      "Matti Lassas",
+      "Lauri Oksanen"
+    ],
+    "doi": "10.1017/fmp.2021.11",
+    "journal": "Forum of Mathematics, Pi",
+    "year": 2021,
+    "details": "9, e10",
+    "status": "published"
+  },
+  {
+    "arxiv": "2002.11598",
+    "title": "Global recovery of a time-dependent coefficient for the wave equation from a single measurement",
+    "authors": [
+      "Ali Feizmohammadi",
+      "Yavar Kian"
+    ],
+    "doi": "10.3233/asy-221779",
+    "journal": "Asymptotic Analysis",
+    "year": 2022,
+    "details": "131(3–4), 513–539",
+    "status": "published"
+  },
+  {
+    "arxiv": "1912.00891",
+    "title": "Space time stabilized finite element methods for a unique continuation problem subject to the wave equation",
+    "authors": [
+      "Erik Burman",
+      "Ali Feizmohammadi",
+      "Arnaud Munch",
+      "Lauri Oksanen"
+    ],
+    "doi": "10.1051/m2an/2020062",
+    "journal": "ESAIM: Mathematical Modelling and Numerical Analysis",
+    "year": 2021,
+    "details": "S969–S991",
+    "status": "published"
+  },
+  {
+    "arxiv": "1911.04834",
+    "title": "The light ray transform in stationary and static Lorentzian geometries",
+    "authors": [
+      "Ali Feizmohammadi",
+      "Joonas Ilmavirta",
+      "Lauri Oksanen"
+    ],
+    "doi": "10.1007/s12220-020-00409-y",
+    "journal": "Journal of Geometric Analysis",
+    "year": 2021,
+    "details": "31, 3656–3682",
+    "status": "published"
+  },
+  {
+    "arxiv": "1904.00608",
+    "title": "An inverse problem for a semi-linear elliptic equation in Riemannian geometries",
+    "authors": [
+      "Ali Feizmohammadi",
+      "Lauri Oksanen"
+    ],
+    "doi": "10.1016/j.jde.2020.03.037",
+    "journal": "Journal of Differential Equations",
+    "year": 2020,
+    "details": "269(6), 4683–4719",
+    "status": "published"
+  },
+  {
+    "arxiv": "1903.12636",
+    "title": "Recovery of zeroth order coefficients in non-linear wave equations",
+    "authors": [
+      "Ali Feizmohammadi",
+      "Lauri Oksanen"
+    ],
+    "doi": "10.1017/S1474748020000122",
+    "journal": "Journal of the Institute of Mathematics of Jussieu",
+    "year": 2022,
+    "details": "21(2), 367–393",
+    "status": "published"
+  },
+  {
+    "arxiv": "1903.08118",
+    "title": "Recovery of nonsmooth coefficients appearing in anisotropic wave equations",
+    "authors": [
+      "Ali Feizmohammadi",
+      "Yavar Kian"
+    ],
+    "doi": "10.1137/19m1251394",
+    "journal": "SIAM Journal on Mathematical Analysis",
+    "year": 2019,
+    "details": "51(6), 4953–4976",
+    "status": "published"
+  },
+  {
+    "arxiv": "1903.02320",
+    "title": "A fully discrete numerical control method for the wave equation",
+    "authors": [
+      "Erik Burman",
+      "Ali Feizmohammadi",
+      "Lauri Oksanen"
+    ],
+    "doi": "10.1137/19M1249424",
+    "journal": "SIAM Journal on Control and Optimization",
+    "year": 2020,
+    "details": "58(3), 1519–1546",
+    "status": "published"
+  },
+  {
+    "arxiv": "1901.04211",
+    "title": "Recovery of time dependent coefficients from boundary data for hyperbolic equations",
+    "authors": [
+      "Ali Feizmohammadi",
+      "Joonas Ilmavirta",
+      "Yavar Kian",
+      "Lauri Oksanen"
+    ],
+    "doi": "10.4171/jst/367",
+    "journal": "Journal of Spectral Theory",
+    "year": 2021,
+    "details": "11(3), 1107–1143",
+    "status": "published"
+  },
+  {
+    "arxiv": "1811.01580",
+    "title": "A finite element data assimilation method for the wave equation",
+    "authors": [
+      "Erik Burman",
+      "Ali Feizmohammadi",
+      "Lauri Oksanen"
+    ],
+    "doi": "10.1090/mcom/3508",
+    "journal": "Mathematics of Computation",
+    "year": 2020,
+    "details": "89(324), 1681–1709",
+    "status": "published"
+  },
+  {
+    "arxiv": "1802.05361",
+    "title": "Uniqueness of a potential from local boundary measurements",
+    "authors": [
+      "Ali Feizmohammadi"
+    ],
+    "doi": "",
+    "journal": "",
+    "year": 2018,
+    "status": "earlier",
+    "details": "Unpublished manuscript"
+  },
+  {
+    "arxiv": "1802.02645",
+    "title": "Uniqueness of a potential from boundary data in locally conformally transversally anisotropic geometries",
+    "authors": [
+      "Ali Feizmohammadi"
+    ],
+    "doi": "",
+    "journal": "",
+    "year": 2018,
+    "status": "earlier",
+    "details": "Unpublished manuscript"
+  }
+]

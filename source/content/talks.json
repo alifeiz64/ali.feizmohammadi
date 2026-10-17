@@ -1,0 +1,226 @@
+[
+  {
+    "year": 2026,
+    "month": "May",
+    "event": "Inverse problems for PDE and geometry",
+    "place": "Cortona, Italy",
+    "video": "",
+    "plenary": false
+  },
+  {
+    "year": 2026,
+    "month": "March",
+    "event": "Seminars on inverse problems",
+    "place": "Online",
+    "video": "https://www.youtube.com/watch?v=Q-NAKfolmx4&t=3s",
+    "plenary": false
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "event": "Inverse problems seminar",
+    "place": "University of California, Irvine · Online",
+    "video": "https://www.youtube.com/watch?v=2rfgd43_zSQ",
+    "plenary": false
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "event": "CMS Winter Meeting",
+    "place": "Toronto, Canada",
+    "video": "",
+    "plenary": false
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "event": "Inverse Problems, Spectral & Scattering Theory Seminar",
+    "place": "Purdue University, West Lafayette",
+    "video": "",
+    "plenary": false
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "event": "Calderón Prize lecture · Applied Inverse Problems Conference",
+    "place": "Rio de Janeiro, Brazil",
+    "video": "",
+    "plenary": true
+  },
+  {
+    "year": 2023,
+    "month": "September",
+    "event": "Applied Inverse Problems Conference",
+    "place": "Göttingen, Germany",
+    "video": "",
+    "plenary": true
+  },
+  {
+    "year": 2023,
+    "month": "July",
+    "event": "Inverse problems and nonlinearity",
+    "place": "Banff International Research Station, Canada",
+    "video": "https://www.birs.ca/events/2023/5-day-workshops/23w5036/videos/watch/202307181030-Feizmohammadi.html",
+    "plenary": false
+  },
+  {
+    "year": 2023,
+    "month": "January",
+    "event": "Analysis Seminar",
+    "place": "York University",
+    "video": "",
+    "plenary": false
+  },
+  {
+    "year": 2022,
+    "month": "December",
+    "event": "Analysis Seminar",
+    "place": "University of Toronto",
+    "video": "",
+    "plenary": false
+  },
+  {
+    "year": 2022,
+    "month": "October",
+    "event": "Analysis Seminar",
+    "place": "North Carolina State University",
+    "video": "",
+    "plenary": false
+  },
+  {
+    "year": 2022,
+    "month": "August",
+    "event": "Inverse problems in analysis and geometry",
+    "place": "Helsinki, Finland",
+    "video": "",
+    "plenary": false
+  },
+  {
+    "year": 2022,
+    "month": "February",
+    "event": "Geometric Analysis Seminar",
+    "place": "University of Calgary",
+    "video": "",
+    "plenary": false
+  },
+  {
+    "year": 2021,
+    "month": "December",
+    "event": "Postdoctoral Colloquium",
+    "place": "Fields Institute",
+    "video": "https://www.youtube.com/watch?v=Pyb2RNSoWi4&t=2368s",
+    "plenary": false
+  },
+  {
+    "year": 2021,
+    "month": "June",
+    "event": "Days on Diffraction",
+    "place": "Steklov Mathematical Institute, St. Petersburg",
+    "video": "",
+    "plenary": false
+  },
+  {
+    "year": 2021,
+    "month": "January",
+    "event": "International inverse problems seminar",
+    "place": "University of California, Irvine · Online",
+    "video": "https://www.youtube.com/watch?v=bn6xCgCVG6w&t=2589s",
+    "plenary": false
+  },
+  {
+    "year": 2020,
+    "month": "November",
+    "event": "Analysis Seminar",
+    "place": "University of Toronto",
+    "video": "",
+    "plenary": false
+  },
+  {
+    "year": 2020,
+    "month": "February",
+    "event": "Differential Geometry / PDE Seminar",
+    "place": "University of Washington, Seattle",
+    "video": "",
+    "plenary": false
+  },
+  {
+    "year": 2020,
+    "month": "February",
+    "event": "Research visit",
+    "place": "University of Helsinki",
+    "video": "",
+    "plenary": false
+  },
+  {
+    "year": 2020,
+    "month": "January",
+    "event": "Mini-Workshop on Wave Equations",
+    "place": "Queen Mary University of London",
+    "video": "",
+    "plenary": false
+  },
+  {
+    "year": 2019,
+    "month": "November",
+    "event": "Inverse Problems and Related Fields Conference",
+    "place": "Marseille, France",
+    "video": "",
+    "plenary": false
+  },
+  {
+    "year": 2019,
+    "month": "July",
+    "event": "Applied Inverse Problems Conference",
+    "place": "Grenoble, France",
+    "video": "",
+    "plenary": false
+  },
+  {
+    "year": 2019,
+    "month": "June",
+    "event": "Days on Diffraction",
+    "place": "Steklov Mathematical Institute, St. Petersburg",
+    "video": "",
+    "plenary": false
+  },
+  {
+    "year": 2018,
+    "month": "November",
+    "event": "Geometry and Analysis Seminar",
+    "place": "Queen Mary University of London",
+    "video": "",
+    "plenary": false
+  },
+  {
+    "year": 2018,
+    "month": "August",
+    "event": "Inverse Problems, PDE and Geometry",
+    "place": "University of Jyväskylä, Finland",
+    "video": "",
+    "plenary": false
+  },
+  {
+    "year": 2018,
+    "month": "August",
+    "event": "Research visit",
+    "place": "University of Helsinki",
+    "video": "",
+    "plenary": false
+  },
+  {
+    "year": 2018,
+    "month": "January",
+    "event": "Analysis Seminar",
+    "place": "University of Toronto",
+    "video": "",
+    "plenary": false
+  },
+  {
+    "year": 2017,
+    "month": "September",
+    "event": "Postgraduate Seminar",
+    "place": "University of Toronto",
+    "video": "",
+    "plenary": false
+  }
+]

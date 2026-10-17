@@ -1,0 +1,128 @@
+[
+  {
+    "year": 2026,
+    "term": "Winter",
+    "code": "MAT236",
+    "course": "Vector Calculus",
+    "coordinator": false
+  },
+  {
+    "year": 2026,
+    "term": "Winter",
+    "code": "MAT136",
+    "course": "Integral Calculus",
+    "coordinator": false
+  },
+  {
+    "year": 2025,
+    "term": "Fall",
+    "code": "MAT236",
+    "course": "Vector Calculus",
+    "coordinator": true
+  },
+  {
+    "year": 2025,
+    "term": "Fall",
+    "code": "MAT102",
+    "course": "Introduction to Proofs",
+    "coordinator": false
+  },
+  {
+    "year": 2025,
+    "term": "Winter",
+    "code": "MAT139",
+    "course": "Integral Calculus with Proofs",
+    "coordinator": true
+  },
+  {
+    "year": 2025,
+    "term": "Winter",
+    "code": "MAT232",
+    "course": "Multivariable Calculus",
+    "coordinator": false
+  },
+  {
+    "year": 2024,
+    "term": "Fall",
+    "code": "MAT137",
+    "course": "Differential Calculus with Proofs",
+    "coordinator": true
+  },
+  {
+    "year": 2024,
+    "term": "Fall",
+    "code": "MAT135",
+    "course": "Differential Calculus",
+    "coordinator": false
+  },
+  {
+    "year": 2024,
+    "term": "Winter",
+    "code": "MAT136",
+    "course": "Integral Calculus",
+    "coordinator": false
+  },
+  {
+    "year": 2023,
+    "term": "Fall",
+    "code": "MAT135",
+    "course": "Differential Calculus",
+    "coordinator": false
+  },
+  {
+    "year": 2023,
+    "term": "Fall",
+    "code": "MAT102",
+    "course": "Introduction to Proofs",
+    "coordinator": false
+  },
+  {
+    "year": 2023,
+    "term": "Fall",
+    "code": "MAT137",
+    "course": "Calculus with Proofs",
+    "coordinator": false
+  },
+  {
+    "year": 2023,
+    "term": "Winter",
+    "code": "MAT224",
+    "course": "Linear Algebra",
+    "coordinator": false
+  },
+  {
+    "year": 2022,
+    "term": "Fall",
+    "code": "MAT343",
+    "course": "Complex Variables",
+    "coordinator": false
+  },
+  {
+    "year": 2021,
+    "term": "Fall",
+    "code": "MAT311",
+    "course": "Partial Differential Equations",
+    "coordinator": true
+  },
+  {
+    "year": 2017,
+    "term": "Fall",
+    "code": "MAT232",
+    "course": "Multivariable Calculus",
+    "coordinator": true
+  },
+  {
+    "year": 2017,
+    "term": "Summer",
+    "code": "MAT224",
+    "course": "Linear Algebra II",
+    "coordinator": true
+  },
+  {
+    "year": 2017,
+    "term": "Winter",
+    "code": "MAT223",
+    "course": "Linear Algebra I",
+    "coordinator": false
+  }
+]
