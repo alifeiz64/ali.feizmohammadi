@@ -4,7 +4,6 @@ from pathlib import Path
 import argparse
 import html
 import json
-import math
 import shutil
 from itertools import groupby
 
@@ -70,31 +69,6 @@ def layout(filename, title, description, body):
 </div></footer>
 </body></html>'''
 
-def art():
-    # Original vector line drawing: a decorative, projected family of wavefronts.
-    lines = []
-    for k in range(22):
-        r = .16 + k * .039
-        pts = []
-        for n in range(241):
-            t = 2*math.pi*n/240
-            x = 205 + 183*r*math.cos(t) + 16*r*r*math.sin(2*t)
-            y = 202 + 122*r*math.sin(t) - 54*math.exp(-((x-205)/92)**2)*(1-r*r)
-            pts.append(f'{x:.2f},{y:.2f}')
-        color = '#467176' if k%5 else '#9a684e'
-        opacity = '.7' if k%5 else '.85'
-        lines.append(f'<polyline points="{" ".join(pts)}" fill="none" stroke="{color}" stroke-opacity="{opacity}" stroke-width="{.65 if k%5 else .9}"/>')
-    meridians=[]
-    for a in [-2.65,-2.1,-1.55,-1.0,-.45,.15,.7,1.25]:
-        pts=[]
-        for n in range(181):
-            r=-.98+n*1.96/180
-            x=205+183*r*math.cos(a)+16*r*r*math.sin(2*a)
-            y=202+122*r*math.sin(a)-54*math.exp(-((x-205)/92)**2)*(1-r*r)
-            pts.append(f'{x:.2f},{y:.2f}')
-        meridians.append(f'<polyline points="{" ".join(pts)}" fill="none" stroke="#467176" stroke-opacity=".22" stroke-width=".6"/>')
-    return '<svg viewBox="0 0 410 385" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M28 335H382M28 40V335" stroke="#becbc3" stroke-width=".6"/><path d="M24 60h8M24 150h8M24 240h8M80 331v8M200 331v8M320 331v8" stroke="#b8c7bd" stroke-width=".6"/>'+''.join(meridians+lines)+'<circle cx="350" cy="232" r="3.3" fill="#8d4f35"/><path d="M355 233l25 14" stroke="#8d4f35" stroke-width=".8"/><text x="374" y="260" font-family="Georgia,serif" font-style="italic" font-size="14" fill="#8d4f35">∂Ω</text></svg>'
-
 def home_paper(pid):
     p=by_id[pid]
     label='Preprint' if p['status']=='preprint' else p['journal']
@@ -109,7 +83,7 @@ home=f'''
   <p class="intro">I study inverse problems for partial differential equations, with a focus on the interplay between analysis and geometry.</p>
   <p class="position"><strong>Research Associate, Department of Mathematics</strong><br>University of Toronto · St. George</p>
   <div class="hero-actions"><a class="button" href="research.html">Explore my research <span aria-hidden="true">↗</span></a><a class="text-link" href="publications.html">Publications <span aria-hidden="true">→</span></a></div>
-</div><figure class="hero-art">{art()}<figcaption class="art-caption"><span>Analysis &amp; geometry</span><span>Inverse problems<br>Partial differential equations</span></figcaption></figure></section>
+</div><figure class="hero-art"><img src="assets/lorentzian-spacetime.webp" width="1536" height="1024" alt="Illustration of future and past light cones within a curved spacetime region." fetchpriority="high" decoding="async"><figcaption class="art-caption"><span>Lorentzian geometry</span><span>Inverse problems<br>in spacetime</span></figcaption></figure></section>
 <aside class="honor-strip" aria-label="Award"><span class="honor-label">Recognition</span>{ext('https://ipia.site/wp/calderon-prizes/','Calderón Prize, 2025 <span aria-hidden="true">↗</span>')}<p>Inverse Problems International Association</p></aside>
 <section class="section" aria-labelledby="recent-heading"><p class="eyebrow section-kicker">Research</p><div class="section-heading"><h2 id="recent-heading">Recent work</h2><a class="text-link" href="publications.html">Full bibliography <span aria-hidden="true">→</span></a></div><div>
   {''.join(home_paper(pid) for pid in ['2610.06766','2609.28047','2407.16866','2507.22723'])}

@@ -28,6 +28,7 @@ The generated HTML files are directly editable. For larger or repeated updates, 
 - `source/build.py`: biography, research descriptions, page layout, and contact details.
 - `source/assets/site.css`: design.
 - `source/assets/site.js`: publication search and mobile menu.
+- `source/assets/lorentzian-spacetime.webp`: homepage illustration, generated for this website.
 
 After changing the source, regenerate from the repository directory:
 
