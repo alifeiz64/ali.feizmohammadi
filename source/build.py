@@ -3,11 +3,13 @@
 from pathlib import Path
 import argparse
 import html
+import hashlib
 import json
 import shutil
 from itertools import groupby
 
 ROOT = Path(__file__).resolve().parent
+STYLE_VERSION = hashlib.sha256((ROOT / 'assets/site.css').read_bytes()).hexdigest()[:12]
 parser = argparse.ArgumentParser(description=__doc__)
 parser.add_argument('--output', default='dist', help='Output directory, relative to this script')
 parser.add_argument('--base-url', default='', help='Optional canonical URL, including repository path')
@@ -47,7 +49,7 @@ def layout(filename, title, description, body):
   <meta property="og:description" content="{e(description)}"><meta property="og:site_name" content="Ali Feizmohammadi">
   {base}{canonical}{robots}
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="assets/site.css"><script src="assets/site.js" defer></script>
+  <link rel="stylesheet" href="assets/site.css?v={STYLE_VERSION}"><script src="assets/site.js" defer></script>
   {schema}
 </head>
 <body>
